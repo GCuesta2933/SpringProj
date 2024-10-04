@@ -5,7 +5,7 @@ import java.util.*;
 
 @RestController
 @RequestMapping("/tasks")
-public class TaskController 
+public class Control 
 {
 
     private Map<Long, Task> tempH = new HashMap<>();
